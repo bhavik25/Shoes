@@ -1,0 +1,7 @@
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.csproj.App.config
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.csproj.CoreCompileInputs.cache
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.App.xaml.g.cs
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.ShoePage.xaml.g.cs
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.CustomVision.xaml.g.cs
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.AzureTable.xaml.g.cs
+/Users/Bhavik/Projects/Shoe/Shoe/obj/Release/Shoe.dll

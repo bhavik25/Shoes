@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CD7980E9-7D16-4E02-B7BC-A2F8F17DE15D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Shoe.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D21E4F9C-BD0A-48CC-BEAC-4AD80C0F203D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoe/Instructions.xaml.cs">
+    <Files>
+      <File FileName="Shoe/obj/Debug/Shoe.ShoePage.xaml.g.cs" Line="19" Column="29" />
+      <File FileName="Shoe/App.xaml" Line="7" Column="1" />
+      <File FileName="Shoe/AzureTable.xaml" Line="8" Column="89" />
+      <File FileName="Shoe/AzureTable.xaml.cs" Line="20" Column="18" />
+      <File FileName="Shoe/CustomVision.xaml.cs" Line="7" Column="1" />
+      <File FileName="Shoe/CustomVision.xaml" Line="14" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.0.1/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="1980" Column="5" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Shoe/packages.config" Line="1" Column="1" />
+      <File FileName="Shoe/ShoeModel.cs" Line="4" Column="20" />
+      <File FileName="Shoe/ShoePage.xaml" Line="13" Column="14" />
+      <File FileName="Shoe/ShoePage.xaml.cs" Line="5" Column="47" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.3.1-2/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="2021" Column="3" />
+      <File FileName="Shoe/Model/ShoeModel.cs" Line="6" Column="18" />
+      <File FileName="Droid/MainActivity.cs" Line="26" Column="35" />
+      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="13" Column="33" />
+      <File FileName="Droid/Resources/xml/file_paths.xml" Line="6" Column="1" />
+      <File FileName="Droid/Shoe.Droid.csproj" Line="1" Column="1" />
+      <File FileName="Shoe/Model/EvaluationModel.cs" Line="15" Column="1" />
+      <File FileName="Shoe/AzureManager.cs" Line="54" Column="30" />
+      <File FileName="Shoe/Instructions.xaml" Line="6" Column="1" />
+      <File FileName="Shoe/Instructions.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shoe.Droid PreferredExecutionTarget="Android.ce0317138d2bc0dc0c" />
+</Properties>
